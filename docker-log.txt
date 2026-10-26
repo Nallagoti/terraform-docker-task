@@ -1,0 +1,2 @@
+CONTAINER ID   IMAGE          COMMAND                  CREATED          STATUS          PORTS                  NAMES
+3b7f8a5d9bea   a3554c0d0b48   "/docker-entrypoint.…"   31 seconds ago   Up 31 seconds   0.0.0.0:8080->80/tcp   terraform-nginx
